@@ -1,2 +1,3 @@
 *.pth
 *.ipynb_checkpointsconvnext_gcn_model_full.pth
+convnext_gcn_model_full.pth
