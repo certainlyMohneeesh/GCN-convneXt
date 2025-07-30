@@ -6,7 +6,7 @@ This repository contains code and models for classifying cotton plant diseases u
 - **ConvNeXt Backbone:** Extracts deep features from cotton leaf images.
 - **Superpixel Graph Construction:** Converts images into superpixel graphs for spatial reasoning.
 - **GCN Layers:** Learns relationships between superpixels for improved disease classification.
-- **Jupyter Notebook:** End-to-end workflow for training, evaluation, and prediction.
+- **Jupyter Notebook:** End-to-end workflow for training, evaluation, and predictions.
 
 ## Requirements
 - Python 3.8+
